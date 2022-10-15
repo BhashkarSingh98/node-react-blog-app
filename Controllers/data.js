@@ -748,6 +748,8 @@ const data=(req,res)=>{
     
     ]);
 
-    module.exports.apicontroller=data;
+    
+};
+module.exports.apicontroller=data;
 
-}
+

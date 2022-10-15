@@ -1,6 +1,6 @@
 const express=require("express");
+const server=require("..//Controllers/data")
 
-const server=require("./Controllers/data")
 
 const datarouter=express.Router();
 
